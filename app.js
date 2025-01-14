@@ -1,6 +1,6 @@
 
 
-var validEmail = ["muzammilofficial49@gmail.com","test@example.com","saadali@gamil.com"];
+var validEmail = ["test@example.com","saadali@gamil.com","muzoffic4@gmail.com"];
 var validPassword =["123456","12345678","123456789"];
 document.getElementById("btn1").addEventListener("click", verify);
 function verify(){
